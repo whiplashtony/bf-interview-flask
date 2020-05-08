@@ -16,6 +16,9 @@ _mailinglist
 .idea/
 docs/_build/
 .vscode
+*/bin
+*/lib
+pyvenv.cfg
 
 # Coverage reports
 htmlcov/
